@@ -1,0 +1,14 @@
+recursive Project {a0d552d1-ba9c-493d-8fd2-0f90937f86c5} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {88cea682-9778-41ca-bf9e-63f95db4dea4} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	classes TypedListOfClass {7048b0aa-8695-4bd4-a926-ac41911d4bef} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+		0 persistencenewunit {510200e0-6533-496a-8607-459dbd70136c} {7048b0aa-8695-4bd4-a926-ac41911d4bef}. S_A {510200e0-6533-496a-8607-459dbd70136c}
+		1 persistencenewunit {b6860830-775f-491f-950a-5d47c5751765} {7048b0aa-8695-4bd4-a926-ac41911d4bef}. S_B {b6860830-775f-491f-950a-5d47c5751765}
+	fields TypedListOfField {c1843030-f5cd-45ae-8ed4-ffa68e2f95b4} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	libraries TypedListOfUsedLibrary {73ecf2f9-ddf2-4bad-b207-b4082760b0b3} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	metaCalls TypedListOfExpression {9d99b258-762e-485b-a363-b6d7edb05fbf} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	methods TypedListOfMethod {2660b6c3-1704-4faa-b4b5-5a40ac2c979e} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	modifiers Modifier {54398528-2097-4005-982f-c0aed8f54107} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}. I_0
+	modules TypedListOfModule {7ed40bca-1d68-4cc2-968e-53f95eb17ef3} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	name NameText {49654bbb-879f-4cfb-a85c-cfce20e50830} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}. S_Test
+	projects TypedListOfProject {49bc6550-d1af-4669-bbe3-49039663226d} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
+	subDeclarations TypedListOfDeclaration {e0d7d23e-5ff2-4a77-bb50-2abb18ed5e77} {a0d552d1-ba9c-493d-8fd2-0f90937f86c5}
