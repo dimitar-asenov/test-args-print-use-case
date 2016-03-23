@@ -16,6 +16,11 @@
 						typeArguments TypedListOfExpression {b77e9c64-e101-4f68-981b-95fc6e9c5ca2} {1df73714-cec9-4430-87bc-a6a61ea1510a}
 					ref OOReference {2384b54c-6608-4500-830a-950a28beae33} {6c7d2101-ee1b-4a63-96f5-993fd1b4ad92}. S_{3d00bc65-139c-40da-89f9-6ee8e6f8270a}:recBIndirect
 					typeArguments TypedListOfExpression {15c2997b-7a6d-4457-85aa-445ee6f4a9a4} {6c7d2101-ee1b-4a63-96f5-993fd1b4ad92}
+		1 ExpressionStatement {50f6b191-0676-487b-8afd-03cca0e9a806} {dfc18c63-782e-4e49-911d-313cd7c7c65a}
+			expression ReferenceExpression {448f998a-aa6c-40c5-ba8c-97e4504b56bb} {50f6b191-0676-487b-8afd-03cca0e9a806}
+				memKind Integer {d500a651-c89d-4bda-91d3-cd6066b5806a} {448f998a-aa6c-40c5-ba8c-97e4504b56bb}. I_0
+				ref OOReference {9f6854b9-62db-40cb-a332-0e62eaa92432} {448f998a-aa6c-40c5-ba8c-97e4504b56bb}. S_____NULL____:someChange
+				typeArguments TypedListOfExpression {95dcbde7-c4c4-47b4-8773-74ce8ac82027} {448f998a-aa6c-40c5-ba8c-97e4504b56bb}
 	memberInitializers TypedListOfMemberInitializer {7f1db392-dbe4-4c47-a2a0-c67bb32b0afc} {6cb9d436-b08e-4d0b-a3e0-d42d79db4f0c}
 	metaCalls TypedListOfExpression {fc77e5fd-63c9-4cb4-bd7d-c7a116a64677} {6cb9d436-b08e-4d0b-a3e0-d42d79db4f0c}
 	modifiers Modifier {bb2af527-9298-4d3f-970e-67769221e2c0} {6cb9d436-b08e-4d0b-a3e0-d42d79db4f0c}. I_0
