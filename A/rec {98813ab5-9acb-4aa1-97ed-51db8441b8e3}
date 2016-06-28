@@ -3,8 +3,37 @@
 	_ext_Position_y Integer {dfa67d90-b16d-4886-ace5-61dda572c94f} {98813ab5-9acb-4aa1-97ed-51db8441b8e3}. I_0
 	annotations StatementItemList {19d1b34d-3ad8-4006-9780-147dd038157f} {98813ab5-9acb-4aa1-97ed-51db8441b8e3}
 	arguments TypedListOfFormalArgument {65844bc7-387d-4f24-a5eb-06993cecbb27} {98813ab5-9acb-4aa1-97ed-51db8441b8e3}
+		0 FormalArgument {404528ea-39dd-4cac-9422-2c620663510c} {65844bc7-387d-4f24-a5eb-06993cecbb27}
+			annotations StatementItemList {64d7b809-5af8-44e3-bce3-b92a96d73530} {404528ea-39dd-4cac-9422-2c620663510c}
+			directionInt Integer {4805e6e3-fc96-436e-8a1c-eb804b74c5fc} {404528ea-39dd-4cac-9422-2c620663510c}. I_0
+			initKind Integer {b44abd36-29a8-4522-ba1e-462c5cadae91} {404528ea-39dd-4cac-9422-2c620663510c}. I_0
+			metaCalls TypedListOfExpression {e362dab9-60f0-44d5-acef-493ef557a154} {404528ea-39dd-4cac-9422-2c620663510c}
+			modifiers Modifier {0255f17b-3c1b-454c-9bbb-82c55397f378} {404528ea-39dd-4cac-9422-2c620663510c}. I_0
+			name NameText {e3770e86-da93-4649-8024-5a52d21a604e} {404528ea-39dd-4cac-9422-2c620663510c}. S_str
+			subDeclarations TypedListOfDeclaration {6095d228-6ced-4bbb-a07a-d6bc5102bfd4} {404528ea-39dd-4cac-9422-2c620663510c}
+			typeExpression ReferenceExpression {57ff0352-8909-47c9-b4aa-89e863303dcb} {404528ea-39dd-4cac-9422-2c620663510c}
+				memKind Integer {cb84fb9c-aa30-412f-8c44-0d24fb08bdb1} {57ff0352-8909-47c9-b4aa-89e863303dcb}. I_0
+				ref OOReference {825b6577-4d6e-496e-9fc8-0f7f38035ca7} {57ff0352-8909-47c9-b4aa-89e863303dcb}. S_____NULL____:String
+				typeArguments TypedListOfExpression {a7c10cf2-99c3-441f-b4eb-9cc69de2678e} {57ff0352-8909-47c9-b4aa-89e863303dcb}
 	items StatementItemList {0618f136-7e55-4faa-be91-885665c8d2d3} {98813ab5-9acb-4aa1-97ed-51db8441b8e3}
-		0 ExpressionStatement {f9a90334-1ff2-4f98-b5d3-11190ff6653b} {0618f136-7e55-4faa-be91-885665c8d2d3}
+		0 IfStatement {a4bfd938-c550-486f-9a79-0be9f7db7427} {0618f136-7e55-4faa-be91-885665c8d2d3}
+			condition MethodCallExpression {46aac904-a2db-48aa-867c-97dab618878b} {a4bfd938-c550-486f-9a79-0be9f7db7427}
+				arguments TypedListOfExpression {a757e15b-0bfa-42de-9a07-a85e3cd81896} {46aac904-a2db-48aa-867c-97dab618878b}
+				cKind Integer {58e2528c-6825-421d-aa0f-7b22702afd09} {46aac904-a2db-48aa-867c-97dab618878b}. I_0
+				callee ReferenceExpression {8a40543b-f6d3-4d21-83b6-fc72b97ada37} {46aac904-a2db-48aa-867c-97dab618878b}
+					memKind Integer {c770d44c-3d86-4c54-adda-fb3af5be3afd} {8a40543b-f6d3-4d21-83b6-fc72b97ada37}. I_0
+					prefix ReferenceExpression {8fe8c4ab-260f-4fb2-9009-51ad912fe9c0} {8a40543b-f6d3-4d21-83b6-fc72b97ada37}
+						memKind Integer {d94edf60-18d4-4a6d-8146-c62b288b3546} {8fe8c4ab-260f-4fb2-9009-51ad912fe9c0}. I_0
+						ref OOReference {58acbd58-1324-4d4c-8685-e3f9e2a03fd1} {8fe8c4ab-260f-4fb2-9009-51ad912fe9c0}. S_{404528ea-39dd-4cac-9422-2c620663510c}:str
+						typeArguments TypedListOfExpression {751f1830-d9d6-41c2-b60f-c6389e86cc23} {8fe8c4ab-260f-4fb2-9009-51ad912fe9c0}
+					ref OOReference {d6733e0f-2063-4c55-8d61-976c3a6c4ff5} {8a40543b-f6d3-4d21-83b6-fc72b97ada37}. S_____NULL____:isEmpty
+					typeArguments TypedListOfExpression {d54ec099-603b-4174-87f4-d1b31d50ddf1} {8a40543b-f6d3-4d21-83b6-fc72b97ada37}
+			elseBranch StatementItemList {47588498-03df-4ac2-88bd-0925c4ea53a1} {a4bfd938-c550-486f-9a79-0be9f7db7427}
+			thenBranch StatementItemList {26d9c22d-3867-4867-b583-e0254408237f} {a4bfd938-c550-486f-9a79-0be9f7db7427}
+				0 ReturnStatement {1dee747d-f311-4dfb-b8a5-84cd06a2b13e} {26d9c22d-3867-4867-b583-e0254408237f}
+					values TypedListOfExpression {3dffdf03-97bc-4a94-8c6b-abf889c17947} {1dee747d-f311-4dfb-b8a5-84cd06a2b13e}
+						0 EmptyExpression {392a98db-0925-45ad-bc04-ed64e72c5724} {3dffdf03-97bc-4a94-8c6b-abf889c17947}
+		1 ExpressionStatement {f9a90334-1ff2-4f98-b5d3-11190ff6653b} {0618f136-7e55-4faa-be91-885665c8d2d3}
 			expression MethodCallExpression {677cb8ff-bb22-4085-b07a-f73496b4dedb} {f9a90334-1ff2-4f98-b5d3-11190ff6653b}
 				arguments TypedListOfExpression {810ce2d4-808e-4235-9d26-9d8b9a46674a} {677cb8ff-bb22-4085-b07a-f73496b4dedb}
 				cKind Integer {a28f3300-1efd-4931-b99e-e0e51fd86920} {677cb8ff-bb22-4085-b07a-f73496b4dedb}. I_0

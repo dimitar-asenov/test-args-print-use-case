@@ -5,6 +5,8 @@
 		0 ExpressionStatement {5c7865aa-c733-4124-ad44-e3f8cce81e41} {64d41478-6353-4d23-9f5f-42b635c9a027}
 			expression MethodCallExpression {47def609-b8f7-4a82-b014-47ccedbeba30} {5c7865aa-c733-4124-ad44-e3f8cce81e41}
 				arguments TypedListOfExpression {daf1e50b-8bd8-4efb-80b4-b93a8074b12d} {47def609-b8f7-4a82-b014-47ccedbeba30}
+					0 StringLiteral {d26ef4b6-3257-43eb-8521-84e445ee098c} {daf1e50b-8bd8-4efb-80b4-b93a8074b12d}
+						value Text {a2dacc28-a664-4a33-b170-ac036834271a} {d26ef4b6-3257-43eb-8521-84e445ee098c}. S_foobar
 				cKind Integer {c070d355-8be4-4511-a6d5-eef5e1ad25df} {47def609-b8f7-4a82-b014-47ccedbeba30}. I_0
 				callee ReferenceExpression {c9057e4c-3bf0-4e36-8c93-c7608d57db28} {47def609-b8f7-4a82-b014-47ccedbeba30}
 					memKind Integer {4d3175a5-b003-4354-a0f8-23638cdc7f3f} {c9057e4c-3bf0-4e36-8c93-c7608d57db28}. I_0
