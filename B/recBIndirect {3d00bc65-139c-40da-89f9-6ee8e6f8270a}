@@ -28,6 +28,14 @@
 				0 ExpressionStatement {9c66b93e-0f51-4ec3-8a22-f8da320eacb1} {ab561112-a97f-42dd-bf1a-0a3132b86e94}
 					expression MethodCallExpression {32bc77b5-421e-4d4e-97e6-43c1b85cb11b} {9c66b93e-0f51-4ec3-8a22-f8da320eacb1}
 						arguments TypedListOfExpression {c5d84abc-b9ff-4ef5-90e0-fa358f62d6e1} {32bc77b5-421e-4d4e-97e6-43c1b85cb11b}
+							0 BinaryOperation {f48c0cf5-e3a5-41db-8541-3aec83d12444} {c5d84abc-b9ff-4ef5-90e0-fa358f62d6e1}
+								left ReferenceExpression {29b033c1-a53d-4ca8-bd84-31a74e6840fd} {f48c0cf5-e3a5-41db-8541-3aec83d12444}
+									memKind Integer {d21880a1-d07b-4e8b-8523-13d6828c16ff} {29b033c1-a53d-4ca8-bd84-31a74e6840fd}. I_0
+									ref OOReference {dc57717b-a95b-4fb5-add1-024b51a990ae} {29b033c1-a53d-4ca8-bd84-31a74e6840fd}. S_{4f7e9891-a5bc-4cdb-aa04-3abd4102e49b}:x
+									typeArguments TypedListOfExpression {8cc98c32-4ba0-4468-9158-98e3a8291321} {29b033c1-a53d-4ca8-bd84-31a74e6840fd}
+								opr Integer {d7922eb6-3f70-48c1-8bef-3cb759429978} {f48c0cf5-e3a5-41db-8541-3aec83d12444}. I_4
+								right IntegerLiteral {c6fbf370-9175-4425-85ba-5a8f128cec8f} {f48c0cf5-e3a5-41db-8541-3aec83d12444}
+									value Text {de2b1dc2-e8ec-4537-be30-ae35557b4bf2} {c6fbf370-9175-4425-85ba-5a8f128cec8f}. S_1
 						cKind Integer {7876f873-1756-4622-9b94-0e24c5e63846} {32bc77b5-421e-4d4e-97e6-43c1b85cb11b}. I_0
 						callee ReferenceExpression {6f1096c2-2a6b-4945-a669-9301eb927e42} {32bc77b5-421e-4d4e-97e6-43c1b85cb11b}
 							memKind Integer {f9cebd97-5125-4514-9600-c8decb33c40b} {6f1096c2-2a6b-4945-a669-9301eb927e42}. I_0
